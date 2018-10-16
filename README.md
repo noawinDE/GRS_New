@@ -2,12 +2,12 @@
 Servus,
 
 hiermit veröffendliche ich die letzte und experimentelle Version vom GRS Script, der Support
-meiner seits ist nun nach fast 2 Jahre eingestellt, vorallem da die Supportanfragen
+meiner seits ist nun nach fast 2 Jahre eingestellt, vorallem da die Support-Anfragen
 von wirklich dummen Leute einfach zu überhand genommen haben (Nie ohne Errors, kamen nie zu Terminen oder wollten mich im Endeffekt nur als Scripter).
 
 Diese Version beinhaltet:
 - Ein neues /self (1)
-- Ein Tokensystem, dessen zweck es ist, die Sicherheits von Accounts zu erhöhen (kann mit /gt vom Admin abgefragt werden)
+- Ein Tokensystem, dessen zweck es ist, die Sicherheis von Accounts zu erhöhen (kann mit /gt vom Admin abgefragt werden)
 - Prestige-System (1)
 - Setting-System (1)
 - Verbindung mit dem Forum (2)
