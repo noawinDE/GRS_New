@@ -17,4 +17,10 @@ Diese Version beinhaltet:
 
 (1) = Unfertig, aber nicht wirklich schlimm, das es so ist.
 (2) = Leicht verbuggt, theoretich nutzbar. 
-(3) = Nicht nutzbar, einfach drin gehabt um was zu testen-
+(3) = Nicht nutzbar, einfach drin gehabt um was zu testen.
+
+Weiteres:
+- Kein Support, heißt kein Support, Bugs werden nicht gefixxt.
+- Warn System Verbuggt
+- Unter settings_both.lua -> "allowedEmailEnding" lassen sich die erlaubten E-Mail-Enden ändern und ggf. anpassen (für Foren Accounts)
+- Ticketsystem habe ich glaube ich kaputt gemacht. (xD)
